@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "identifier-netgenium-online": {
+      "type": "http",
+      "url": "https://identifier.netgenium.online/api.aspx",
+      "headers": {
+        "Authorization": "Bearer ${MCP_TOKEN_IDENTIFIER_NETGENIUM_ONLINE}"
+      }
+    }
+  }
+}
